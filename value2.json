@@ -1,46 +1,46 @@
 [
     {
-        "name": "A",
+        "key": "A",
         "value": "67"
     },
     {
-        "name": "B",
+        "key": "B",
         "value": "92"
     },
     {
-        "name": "C",
+        "key": "C",
         "value": "82"
     },
     {
-        "name": "D",
+        "key": "D",
         "value": "53"
     },
     {
-        "name": "E",
+        "key": "E",
         "value": "2"
     },
     {
-        "name": "F",
+        "key": "F",
         "value": "88"
     },
     {
-        "name": "G",
+        "key": "G",
         "value": "15"
     },
     {
-        "name": "H",
+        "key": "H",
         "value": "94"
     },
     {
-        "name": "I",
+        "key": "I",
         "value": "66"
     },
     {
-        "name": "J",
+        "key": "J",
         "value": "53"
     },
     {
-        "name": "K",
+        "key": "K",
         "value": "72"
     }
 ]
